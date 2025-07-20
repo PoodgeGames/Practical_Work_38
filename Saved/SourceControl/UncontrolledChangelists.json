@@ -57,14 +57,21 @@
 				"C:/UE5Projects/Practical_Work_38/Content/Light/Mesh/T_Light_ROM.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/UE5Projects/Practical_Work_38/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4T/NUSRR1GNLGCMILI2IDF3ZK.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/Fix_001/BP_Button_002.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/Fix_001/BP_ButtonFix.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/Fix_001/BP_LightFix.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/Fix_001/BPI_SwitchableFix.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/D5/YCUR7YGIW3YISFK5KVL4L8.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y6/7NBM08KGPCICVNCRIMGJTQ.uasset",
+				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NV/T7TIOB4R0RVASD2QTY69RC.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/BP_Light_001.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/BP_Light_002.uasset",
-				"C:/UE5Projects/Practical_Work_38/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WV/QNMS4S98Q27K5CPY08GU4Z.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QP/3I2YOFKD75NA30C9TW78OO.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/BP_Light_003.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/Blueprints/BP_Light_004.uasset",
-				"C:/UE5Projects/Practical_Work_38/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4T/NUSRR1GNLGCMILI2IDF3ZK.uasset",
 				"C:/UE5Projects/Practical_Work_38/Content/Light/Mesh/Material__2.uasset"
 			]
 		}
